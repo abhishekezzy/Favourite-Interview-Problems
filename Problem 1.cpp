@@ -1,5 +1,5 @@
 /*
-The below algorithm is a modification of [Boyer–Moore majority vote algorithm]{https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm}
+The below algorithm is a modification of Boyer–Moore majority vote algorithm
 Start with two empty candidate slots and two counters set to 0.
 for each item:
     if it is equal to either candidate, increment the corresponding count
