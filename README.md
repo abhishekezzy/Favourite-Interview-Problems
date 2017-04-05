@@ -1,5 +1,7 @@
 # InterestingProblems
-This repository consists of various interesting problems requiring a very unique and brilliant algorithm to solve them. Feel free to fork and merge problems which you find interesting. Thank you!
+This repository consists of various interesting problems asked by various tech giants like Google, Microsoft, Facebook, Amazon, VMWare etc.
+Best way to use: Read the problems and spend time to find a solution and write code with pen and paper (as tech giants conducts their interviews by asking you to write code on Whiteboard). After writing your solution, refer to my code where I shall explain the algorithm in the comment section and provide you the code.
+Feel free to star and fork the repo. Thank you. Happy solving!
 
 ### Problem 1: N/3 Repeat Numbers
 You’re given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space.
